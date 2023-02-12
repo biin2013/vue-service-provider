@@ -1,0 +1,12 @@
+{
+  "name": "@biin2013/vue-service-provider",
+  "version": "1.0.0",
+  "description": "vue service provider",
+  "main": "src/index.ts",
+  "author": "biin2013",
+  "license": "MIT",
+  "files": ["/src"],
+  "peerDependencies": {
+    "vue": "^3.2.0"
+  }
+}
